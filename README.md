@@ -5,27 +5,6 @@
 - [>> English Version](https://linux.do/t/topic/10734?u=playmcbkuwu)
 - 2024 年 3 月 2 日 下午 22:25 更新
 ***
-# 投票
-- 因为担心贴子初衷改变等原因，故插入投票。
-[poll type=regular results=always min=1 max=1 public=true chartType=pie]
-# 是否要改为“人工智能”板块以让每一位佬友都能看到本贴？
-* 保留着现在的吧，门槛太低总会有问题的（比如倒卖）
-* 改吧，想推荐给朋友 / 其他
-* 门槛还是太低了，改成二级用户专享贴！
-[/poll]
-[poll name=poll2 type=regular results=always min=1 max=1 public=true chartType=pie]
-# 是否要保留本贴国际版？
-* 留着吧，外国友人在中国也需要这些本该无国界而被分享的技术
-* 别留了吧
-* 留着但是提高门槛到一级
-* 留着但是提高门槛到二级
-[/poll]
-[poll name=poll3 type=regular results=always public=true chartType=pie]
-# 贴子需不需要迁移？
-* 当然啊，停更了咋整
-* 先别迁 qwq
-[/poll]
-***
 # 请复制我们！
 - 因为开学 / Discourse 的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
 - 目前所有佬友都可以根据本贴的 Markdown 复制 ChinaGPT-4 并作为一个贴子发布到 Linux.do 或者作为 README 项目发布到 Github / Gitee.
