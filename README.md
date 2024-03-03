@@ -2,14 +2,14 @@
 - 也叫 EveryoneAI — 人人可用的 AI。
 - 致力于分享 GPT-4 · Google Gemini Pro · Bing Chat
 - 强烈建议标书签以获取最新信息！
-- [>> English Version](https://linux.do/t/topic/10734?u=playmcbkuwu)
-- 2024 年 3 月 3 日 下午 16:08 更新
+- [>> English Version](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
+- 2024 年 3 月 3 日 下午 18:47 更新
 ***
 # 请复制我们！
-- 因为开学 / Discourse 的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
-- 目前所有佬友都可以根据本贴的 Markdown 复制 ChinaGPT-4 并作为一个贴子发布到 Linux.do 或者作为 README 项目发布到 Github / Gitee.
-- 请记得标注本贴或者本贴英语版地址。
-- 本贴后续可能迁移到 https://chinagpt.shellten.top/ 或双端同时发布新内容。
+- 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
+- 目前所有佬友都可以根据本贴的 Markdown 复制 ChinaGPT-4 并作为一个贴子发布到 Linux.do 或给本项目提交 Pull Requests.
+- 若要开新贴，请记得标注本项目或者本项目英语版地址。
+- 本项目在 https://chinagpt.shellten.top/ 双端同时发布新内容。
 ***
 # 大合集 / 未测试
 - 由其他佬友制作的大合集。此处没有特殊字体用于区分。
