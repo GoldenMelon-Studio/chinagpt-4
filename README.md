@@ -3,7 +3,7 @@
 - 致力于分享 GPT-4 · Google Gemini Pro · Bing Chat
 - 强烈建议标书签以获取最新信息！
 - [>> English Version](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 3 日 下午 18:47 更新
+- 2024 年 3 月 3 日 下午 19:05 更新
 ***
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -15,6 +15,7 @@
 - 由其他佬友制作的大合集。此处没有特殊字体用于区分。
 - 1. LAOGOU666 合集: https://www.laogou717.com/
 - 2. LXJGZX 合集: https://lxjgzsd.zeabur.app/
+  3. SHUWU 合集: https://linux.do/t/topic/22492?u=playmcbkuwu
 # GPT-4
 - 推荐程度：9/10（90%）
 - ***1.*** **推荐！** RawChat:  https://sharedchat.cn/shared.html
