@@ -3,7 +3,7 @@
 - 致力于分享 GPT-4 · Google Gemini Pro · Bing Chat
 - 强烈建议标书签以获取最新信息！
 - [>> English Version](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 3 日 下午 19:05 更新
+- 2024 年 3 月 3 日 下午 19:12 更新
 ***
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -13,64 +13,64 @@
 ***
 # 大合集 / 未测试
 - 由其他佬友制作的大合集。此处没有特殊字体用于区分。
-- 1. LAOGOU666 合集: https://www.laogou717.com/
-- 2. LXJGZX 合集: https://lxjgzsd.zeabur.app/
-  3. ShawnAI 合集: https://linux.do/t/topic/22492?u=playmcbkuwu
+- 1\. LAOGOU666 合集: https://www.laogou717.com/
+- 2\. LXJGZX 合集: https://lxjgzsd.zeabur.app/
+  3\. ShawnAI 合集: https://linux.do/t/topic/22492?u=playmcbkuwu
 # GPT-4
 - 推荐程度：9/10（90%）
-- ***1.*** **推荐！** RawChat:  https://sharedchat.cn/shared.html
-- 2. *RawChat* ~~`你没有 Plus 还是只能登 GPT-3.5 的号玩 GPT-3.5`~~: https://chat.rawchat.cc/
-- *3.\.* **较为推荐** **Free01**:http://free01.xyz
-- 4.\. **较为推荐** **NextChat by CaiFree**: https://chat.caifree.com/#/
-- 5.\. **较为推荐** **NextChat by NetFly**: https://free.netfly.top/
-- 6.\. **较为推荐** **NextChat by UU**: https://uu.ci/chat/1
-- ***.7.*** **非常推荐！** **PlusAI** ~~`我说这家伙不支持 GPT-3.5 只支持 GPT-4 你信吗`~~` | 信息发送限制: 25 / 2min`: https://linux.do/t/topic/8145
-- 8.\. ***古娜拉*** `需自行注册账户 | `**未测试**: https://gunara.cn/
-- 9.\. ChatK: http://chat.gking.me/
-- 10.\. **较为推荐** **LobeHub by CaiFree**: https://lobe.caifree.com/
-- 11.\. **推荐！** **LobeHub by @SillyGod** `GPT-4 仅支持 Preview 系列模型 | 支持 LobeHub 插件`: https://free.b3n.fun/
-- 12.\. **BetterChatGPT by DongStop** `限额`: https://hai1.dongstop.link/
-- **13.** GPT-4 by @jinshenganyuci : https://linux.do/t/topic/12504
-- 14... GPT-4 by @2311676378 : https://linux.do/t/topic/13925
-- **15.** OhChat by @sketu : https://ochat.shellten.top/
-- 16.\. GPT-4 by @DoneWell : https://linux.do/t/topic/18438?u=playmcbkuwu
-- 17.\. ***BoscoAI*** `限额`: https://ai.bosco.icu/
-- 18.\. GPT-4 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
-- 19.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
+- ***1\.*** **推荐！** RawChat:  https://sharedchat.cn/shared.html
+- 2\. *RawChat* ~~`你没有 Plus 还是只能登 GPT-3.5 的号玩 GPT-3.5`~~: https://chat.rawchat.cc/
+- *3\.\.* **较为推荐** **Free01**:http://free01.xyz
+- 4\.\. **较为推荐** **NextChat by CaiFree**: https://chat.caifree.com/#/
+- 5\.\. **较为推荐** **NextChat by NetFly**: https://free.netfly.top/
+- 6\.\. **较为推荐** **NextChat by UU**: https://uu.ci/chat/1
+- ***.7\.*** **非常推荐！** **PlusAI** ~~`我说这家伙不支持 GPT-3.5 只支持 GPT-4 你信吗`~~` | 信息发送限制: 25 / 2min`: https://linux.do/t/topic/8145
+- 8\.\. ***古娜拉*** `需自行注册账户 | `**未测试**: https://gunara.cn/
+- 9\.\. ChatK: http://chat.gking.me/
+- 10\.\. **较为推荐** **LobeHub by CaiFree**: https://lobe.caifree.com/
+- 11\.\. **推荐！** **LobeHub by @SillyGod** `GPT-4 仅支持 Preview 系列模型 | 支持 LobeHub 插件`: https://free.b3n.fun/
+- 12\.\. **BetterChatGPT by DongStop** `限额`: https://hai1.dongstop.link/
+- **13\.** GPT-4 by @jinshenganyuci : https://linux.do/t/topic/12504
+- 14\... GPT-4 by @2311676378 : https://linux.do/t/topic/13925
+- **15\.** OhChat by @sketu : https://ochat.shellten.top/
+- 16\.\. GPT-4 by @DoneWell : https://linux.do/t/topic/18438?u=playmcbkuwu
+- 17\.\. ***BoscoAI*** `限额`: https://ai.bosco.icu/
+- 18\.\. GPT-4 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
+- 19\.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
 ***
 # 其他
 ## GPT-3.5
 - 推荐程度：2/5（40%）
-- 1.\. **较为推荐** **Binjie09**: https://chat18.aichatos.xyz
-- 2.\. **较为推荐** ChatGPT Ultra: https://chatgpt-ultra.top/
-- ***3.*** **较为推荐** RawChat: https://sharedchat.cn/shared.html
-- 4.\. *RawChat*: https://chat.rawchat.cc/
-- *5.\.* **较为推荐** **Free01**: http://free01.xyz/
-- 6.\. **较为推荐** **NextChat by CaiFree**: https://chat.caifree.com/#/
-- 7.\. **较为推荐** **NextChat by NetFly**: https://free.netfly.top/
-- 8.\. **较为推荐** **NextChat by UU**: https://uu.ci/chat/1
-- 9.\. ***古娜拉*** `需自行注册账户 | `**未测试**: https://gunara.cn/
-- 10.\. ChatK: http://chat.gking.me/
-- 11.\. **较为推荐** **LobeHub by CaiFree**: https://lobe.caifree.com/
-- 12.\. **推荐！** **LobeHub by @SillyGod** `支持 LobeHub 插件`: https://free.b3n.fun/
-- *13.\.* LobeHub by WisdGod `密码: Free`: https://lobe.wisdgod.com
-- 14.\. **BetterChatGPT by DongStop** `限额`: https://hai1.dongstop.link/
-- **15.** GPT-3.5 by @jinshenganyuci : https://linux.do/t/topic/12504
-- 16... GPT-3.5 by @2311676378 : https://linux.do/t/topic/13925
-- **17.\.** GPT-3.5 by @sketu : https://ochat.shellten.top/
-- 18.\. GPT-3.5 by @webpon : https://linux.do/t/topic/16920
-- 19.\. BoscoAI: https://ai.bosco.icu/
-- 20.\. GPT-4 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
+- 1\.\. **较为推荐** **Binjie09**: https://chat18.aichatos.xyz
+- 2\.\. **较为推荐** ChatGPT Ultra: https://chatgpt-ultra.top/
+- ***3\.*** **较为推荐** RawChat: https://sharedchat.cn/shared.html
+- 4\.\. *RawChat*: https://chat.rawchat.cc/
+- *5\.\.* **较为推荐** **Free01**: http://free01.xyz/
+- 6\.\. **较为推荐** **NextChat by CaiFree**: https://chat.caifree.com/#/
+- 7\.\. **较为推荐** **NextChat by NetFly**: https://free.netfly.top/
+- 8\.\. **较为推荐** **NextChat by UU**: https://uu.ci/chat/1
+- 9\.\. ***古娜拉*** `需自行注册账户 | `**未测试**: https://gunara.cn/
+- 10\.\. ChatK: http://chat.gking.me/
+- 11\.\. **较为推荐** **LobeHub by CaiFree**: https://lobe.caifree.com/
+- 12\.\. **推荐！** **LobeHub by @SillyGod** `支持 LobeHub 插件`: https://free.b3n.fun/
+- *13\.\.* LobeHub by WisdGod `密码: Free`: https://lobe.wisdgod.com
+- 14\.\. **BetterChatGPT by DongStop** `限额`: https://hai1.dongstop.link/
+- **15\.** GPT-3.5 by @jinshenganyuci : https://linux.do/t/topic/12504
+- 16\... GPT-3.5 by @2311676378 : https://linux.do/t/topic/13925
+- **17\.\.** GPT-3.5 by @sketu : https://ochat.shellten.top/
+- 18\.\. GPT-3.5 by @webpon : https://linux.do/t/topic/16920
+- 19\.\. BoscoAI: https://ai.bosco.icu/
+- 20\.\. GPT-3.5 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
 ***
 ## Google Gemini
 - 推荐程度：3/5（60%）
-- 1.\. **推荐！** Gemini Pro Chat ~~`本站 Gemini Pro `**一直使用*简体*中文提问**`会导致其认为自己是百度开发的`~~: https://gemini-ai.top/
-- *2.\.* **推荐！** NextChat ~~`本站 Gemini Pro 会说自己是由 Google 训练的 ChatGPT`~~: http://free01.xyz/
-- 3.\. Gemini by 1e1: https://1e1.fun/
+- 1\.\. **推荐！** Gemini Pro Chat ~~`本站 Gemini Pro `**一直使用*简体*中文提问**`会导致其认为自己是百度开发的`~~: https://gemini-ai.top/
+- *2\.\.* **推荐！** NextChat ~~`本站 Gemini Pro 会说自己是由 Google 训练的 ChatGPT`~~: http://free01.xyz/
+- 3\.\. Gemini by 1e1: https://1e1.fun/
 ***
 ## Bing / Sydney
 - 推荐程度：7/10（70%）
-1. **较为推荐** 冻死企鹅 `前者为带教程的完整内容，后者为 Bing 聊天页面`: https://dongsiqie.me/bing / https://bingai.zklcdc.xyz/web/index.html
+1\. **较为推荐** 冻死企鹅 `前者为带教程的完整内容，后者为 Bing 聊天页面`: https://dongsiqie.me/bing / https://bingai.zklcdc.xyz/web/index.html
 - 在这里捐一个 ~~啥用没有~~ 的 **完整** Cookie：
 ```json
 [     {         "domain": ".bing.com",         "expirationDate": 1741395943.072767,         "hostOnly": false,         "httpOnly": false,         "name": "SRCHUSR",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "DOB=20220323&T=1706835935000"     },     {         "domain": ".bing.com",         "hostOnly": false,         "httpOnly": true,         "name": "_Rwho",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": true,         "storeId": null,         "value": "u=d"     },     {         "domain": ".bing.com",         "expirationDate": 1741396043.383555,         "hostOnly": false,         "httpOnly": false,         "name": "SRCHHPGUSR",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "SRCHLANG=zh-Hans&BZA=0&BRW=W&BRH=S&CW=1358&CH=620&SW=1366&SH=768&DPR=1.0&UTC=480&DM=0&EXLTT=31&HV=1706836043&PV=10.0.0&PRVCW=807&PRVCH=620&SCW=1343&SCH=620&WTS=63842432828&cdxtone=Creative&cdxtoneopts=h3imaginative,clgalileo,gencontentv3&IG=C551B738CFE24183B421AF9BFD2A667A&CIBV=1.1359.4"     },     {         "domain": ".bing.com",         "expirationDate": 1725093314.76374,         "hostOnly": false,         "httpOnly": false,         "name": "ANON",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "A=038FB286D488437EF15AA538FFFFFFFF&E=1c1d&W=1"     },     {         "domain": ".bing.com",         "expirationDate": 1715000787,         "hostOnly": false,         "httpOnly": false,         "name": "BCP",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "AD=1&AL=1&SM=1"     },     {         "domain": ".bing.com",         "expirationDate": 1718115299,         "hostOnly": false,         "httpOnly": false,         "name": "EDGSRVCUSR",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "udscdxtone=Balanced"     },     {         "domain": ".bing.com",         "hostOnly": false,         "httpOnly": false,         "name": "_SS",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": true,         "storeId": null,         "value": "SID=15FBF909B5136FFF283CED10B4596E3A&R=51&RB=51&GB=0&RG=0&RP=51"     },     {         "domain": ".bing.com",         "hostOnly": false,         "httpOnly": false,         "name": "ipv6",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": true,         "storeId": null,         "value": "hit=1706839544595&t=4"     },     {         "domain": ".bing.com",         "expirationDate": 1711195505.096207,         "hostOnly": false,         "httpOnly": false,         "name": "SRCHD",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "AF=NOFORM"     },     {         "domain": ".bing.com",         "expirationDate": 1738458431.96791,         "hostOnly": false,         "httpOnly": false,         "name": "_RwBf",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "ilt=4&ihpd=0&ispd=1&rc=51&rb=51&gb=0&rg=0&pc=51&mtu=0&rbb=0.0&g=0&cid=&clo=0&v=2&l=2024-02-01T08:00:00.0000000Z&lft=0001-01-01T00:00:00.0000000&aof=0&o=0&p=BINGCOPILOTWAITLIST&c=MR000T&t=1096&s=2023-05-07T13:05:12.1562604+00:00&ts=2024-02-02T01:07:12.4382309+00:00&rwred=0&wls=2&lka=0&lkt=0&TH=&mta=0&e=SLfAVnnpKJ-tZikbYUjYGw2FmrIhm6YrUlBf7YmVCafZ8uGRs2Io8zMf46Sd4kYMZEpekoL-2TyLhGFDGrJQvuiUeh5lFTG1oru3OKxmBYU&A=&wlb=0&aad=0&ard=0001-01-01T00:00:00.0000000&wle=0&ccp=0&rwdbt=0001-01-01T16:00:00.0000000-08:00&rwflt=0001-01-01T16:00:00.0000000-08:00"     },     {         "domain": ".bing.com",         "expirationDate": 1741396029.415937,         "hostOnly": false,         "httpOnly": false,         "name": "_UR",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "QS=0&TQS=0"     },     {         "domain": ".bing.com",         "hostOnly": false,         "httpOnly": true,         "name": "_EDGE_S",         "path": "/",         "sameSite": null,         "secure": false,         "session": true,         "storeId": null,         "value": "SID=15FBF909B5136FFF283CED10B4596E3A"     },     {         "domain": ".bing.com",         "expirationDate": 1741222553.363795,         "hostOnly": false,         "httpOnly": true,         "name": "USRLOC",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "HS=1&ELOC=LAT=31.216106414794922|LON=121.47789001464844|N=%E9%BB%84%E6%B5%A6%E5%8C%BA%EF%BC%8C%E4%B8%8A%E6%B5%B7%E5%B8%82|ELT=4|"     },     {         "domain": ".bing.com",         "expirationDate": 1715955240,         "hostOnly": false,         "httpOnly": false,         "name": "_clck",         "path": "/",         "sameSite": null,         "secure": false,         "session": false,         "storeId": null,         "value": "1vag3or|2|fbp|0|1233"     },     {         "domain": ".bing.com",         "expirationDate": 1741396029.600494,         "hostOnly": false,         "httpOnly": false,         "name": "_HPVN",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "CS=eyJQbiI6eyJDbiI6NCwiU3QiOjAsIlFzIjowLCJQcm9kIjoiUCJ9LCJTYyI6eyJDbiI6NCwiU3QiOjAsIlFzIjowLCJQcm9kIjoiSCJ9LCJReiI6eyJDbiI6NCwiU3QiOjAsIlFzIjowLCJQcm9kIjoiVCJ9LCJBcCI6dHJ1ZSwiTXV0ZSI6dHJ1ZSwiTGFkIjoiMjAyNC0wMi0wMlQwMDowMDowMFoiLCJJb3RkIjowLCJHd2IiOjAsIlRucyI6MCwiRGZ0IjpudWxsLCJNdnMiOjAsIkZsdCI6MCwiSW1wIjoxMiwiVG9ibiI6MH0="     },     {         "domain": ".bing.com",         "expirationDate": 1737390300.013449,         "hostOnly": false,         "httpOnly": false,         "name": "ABDEF",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "V=13&ABDV=13&MRNB=1702830300011&MRB=0"     },     {         "domain": "cn.bing.com",         "expirationDate": 1706837830,         "hostOnly": true,         "httpOnly": false,         "name": "ai_session",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "dg05h4AgPYLslV5DqO/Edr|1706835943149|1706836030657"     },     {         "domain": "cn.bing.com",         "expirationDate": 1738372030.626643,         "hostOnly": true,         "httpOnly": false,         "name": "MicrosoftApplicationsTelemetryDeviceId",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "c601acab-e1d2-4d2a-b068-b277e9b1b1ab"     },     {         "domain": ".bing.com",         "expirationDate": 1713777802.611535,         "hostOnly": false,         "httpOnly": false,         "name": "MMCASM",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "ID=ECB754209FE140D4908DB157CC5E2B35"     },     {         "domain": ".bing.com",         "expirationDate": 1740358555.633462,         "hostOnly": false,         "httpOnly": false,         "name": "MUID",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "3B6C1E7652D865F623F00E7053A764FD"     },     {         "domain": "cn.bing.com",         "expirationDate": 1740532067.648779,         "hostOnly": true,         "httpOnly": true,         "name": "MUIDB",         "path": "/",         "sameSite": null,         "secure": false,         "session": false,         "storeId": null,         "value": "3B6C1E7652D865F623F00E7053A764FD"     },     {         "domain": ".bing.com",         "expirationDate": 1711195505.096263,         "hostOnly": false,         "httpOnly": false,         "name": "SRCHUID",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "V=2&GUID=2ABFD2D032274FFDB1D32A2D4AEBE4C1&dmnchg=1"     },     {         "domain": ".bing.com",         "expirationDate": 1713777791.446063,         "hostOnly": false,         "httpOnly": false,         "name": "TRBDG",         "path": "/",         "sameSite": "no_restriction",         "secure": true,         "session": false,         "storeId": null,         "value": "FIMPR=1"     } ]
