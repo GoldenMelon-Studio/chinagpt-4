@@ -3,7 +3,7 @@
 - 致力于分享 GPT-4 · Google Gemini Pro · Bing Chat
 - 强烈建议标书签以获取最新信息！
 - [>> English Version](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 3 日 下午 19:12 更新
+- 2024 年 3 月 3 日 下午 20:58 更新
 ***
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -37,6 +37,7 @@
 - 17\.\. ***BoscoAI*** `限额`: https://ai.bosco.icu/
 - 18\.\. GPT-4 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
 - 19\.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
+- 20\.\. GPT-4 by AITopk： https://aitopk.com/list
 ***
 # 其他
 ## GPT-3.5
@@ -61,6 +62,7 @@
 - 18\.\. GPT-3.5 by @webpon : https://linux.do/t/topic/16920
 - 19\.\. BoscoAI: https://ai.bosco.icu/
 - 20\.\. GPT-3.5 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
+- 21\. GPT-3.5 by AITopk： https://aitopk.com/list
 ***
 ## Google Gemini
 - 推荐程度：3/5（60%）
