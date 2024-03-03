@@ -4,7 +4,7 @@
 - Bookmarking is highly recommended for the most up-to-date information!
 - [>> 中文版本](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md?plain=1)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March 3, 2024 at 18:49 PM
+- Updated March 3, 2024 at 19:06 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
@@ -18,6 +18,7 @@
 - The groups made by other users. No special fonts.
 - 1. LAOGOU666: https://www.laogou717.com/
 - 2. LXJGZX: https://lxjgzsd.zeabur.app/
+- 3. ShawnAI: https://linux.do/t/topic/22492?u=playmcbkuwu
 # GPT-4
 - Recommendation: 9/10 (90%)
 - ***1.*** **Half recommended** RawChat: https://sharedchat.cn/shared.html
