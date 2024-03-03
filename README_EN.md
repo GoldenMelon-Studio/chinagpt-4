@@ -83,7 +83,7 @@
 - If settings such as the number of chats do not appear in the settings box, try refreshing the page
 ***
 ## GPT-4 Free API
-- **Recommended!** NeuroAPI `Require a Discord account to register`: https://github.com/neurogen-dev/NeuroAPI
+- **Recommended!** NeuroAPI `Require a Discord account to register`: https://github.ink/neurogen-dev/NeuroAPI
 - **Recommended!** Free APIs shared by @ElonMusk: https://linux.do/t/topic/6049
 - **Half recommended** Coze Discord Proxy: https://linux.do/t/topic/3873?u=playmcbkuwu
 - UU Free API `Be sure to read the entries carefully`: https://linux.do/t/topic/11115?u=playmcbkuwu
