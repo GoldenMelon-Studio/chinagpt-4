@@ -4,16 +4,16 @@
 - Bookmarking is highly recommended for the most up-to-date information!
 - [>> 中文版本](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md?plain=1)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March 3, 2024 at 16:35 PM
+- Updated March 3, 2024 at 18:49 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
 ***
 # Please fork us!
-- Because of study or Discourse, we may cannot update this fast or stop update this project.
-- You can use Markdown texts of this project to fork ChinaGPT-4 and publish to Linux.do as a topic or publish to Github as a README project.
-- Remember to fork with links of our topics.
-- We may migrate to https://chinagpt.shellten.top/ or publish there and here.
+- Because of study, we may cannot update this fast or stop update this project.
+- You can use Markdown texts of this project to fork ChinaGPT-4 and publish to Linux.do as a topic or submit Pull Requests to this project.
+- Remember to fork with links of our project if you created a new topic.
+- Double-ended publishing at https://chinagpt.shellten.top/ .
 # AI Groups / Not tested
 - The groups made by other users. No special fonts.
 - 1. LAOGOU666: https://www.laogou717.com/
