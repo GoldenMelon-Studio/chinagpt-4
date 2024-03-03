@@ -3,7 +3,7 @@
 - 致力于分享 GPT-4 · Google Gemini Pro · Bing Chat
 - 强烈建议标书签以获取最新信息！
 - [>> English Version](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 3 日 下午 20:58 更新
+- 2024 年 3 月 3 日 下午 21:01 更新
 ***
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -87,7 +87,7 @@
 ***
 # 绘画（Preview）
 - 其他区域的特殊字体暂时不适用于此。
-- - 1. WorkersAI by @sketu: https://share.shellten.top/aidraw
+- 1\. WorkersAI by @sketu: https://share.shellten.top/aidraw
 ## GPT-4 免费 API
 - 其他区域的特殊字体暂时不适用于此。
 - **推荐！** NeuroAPI `需要 Discord 注册`:https://github.ink/neurogen-dev/NeuroAPI
