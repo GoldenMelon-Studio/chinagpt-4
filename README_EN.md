@@ -4,7 +4,7 @@
 - Bookmarking is highly recommended for the most up-to-date information!
 - [>> 中文版本](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md?plain=1)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March 3, 2024 at 20:59 PM
+- Updated March 3, 2024 at 21:04 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
@@ -84,6 +84,10 @@
 - Change the captcha server to `https://bing-pass.dongsiqie.me`
 - Change the number of chats to a number no matter how big it is, as long as you think it is easy to use (~~It is better not to exceed the upper limit of int positive integers, i.e. 2147483648~~)
 - If settings such as the number of chats do not appear in the settings box, try refreshing the page
+***
+# Image Designer (Preview)
+- No special fonts here current.
+- 1\. WorkersAI by @sketu: https://share.shellten.top/aidraw
 ***
 ## GPT-4 Free API
 - **Recommended!** NeuroAPI `Require a Discord account to register`: https://github.ink/neurogen-dev/NeuroAPI
