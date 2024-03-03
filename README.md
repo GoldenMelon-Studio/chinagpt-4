@@ -3,7 +3,7 @@
 - 致力于分享 GPT-4 · Google Gemini Pro · Bing Chat
 - 强烈建议标书签以获取最新信息！
 - [>> English Version](https://linux.do/t/topic/10734?u=playmcbkuwu)
-- 2024 年 3 月 2 日 下午 22:25 更新
+- 2024 年 3 月 3 日 下午 16:08 更新
 ***
 # 请复制我们！
 - 因为开学 / Discourse 的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -82,7 +82,11 @@
 - 聊天次数改为一个无论多大的数字都可以，你觉得好用就行（~~最好别超过 int 正整数上限即 2147483648~~）
 - 若聊天次数等设置没有出现在设置框内，尝试刷新页面
 ***
+# 绘画（Preview）
+- 其他区域的特殊字体暂时不适用于此。
+- - 1. WorkersAI by @sketu: https://share.shellten.top/aidraw
 ## GPT-4 免费 API
+- 其他区域的特殊字体暂时不适用于此。
 - **推荐！** NeuroAPI `需要 Discord 注册`:https://github.ink/neurogen-dev/NeuroAPI
 - **推荐！** @ElonMusk 分享的免费 API 合集:https://linux.do/t/topic/6049
 - **较为推荐** Coze Discord Proxy:https://linux.do/t/topic/3873?u=playmcbkuwu
@@ -97,6 +101,8 @@
 - API by @jinshenganyuci : https://linux.do/t/topic/14354
 - API by @2311676378 : https://linux.do/t/topic/13925
 - API by @DonaldYinTrump : https://linux.do/t/topic/22040?u=playmcbkuwu
+- API by @Lvguanjun : https://linux.do/t/topic/17943?u=playmcbkuwu
+- API by BoscoAI: https://api.bosco.icu/
 ***
 - 正常字体为普通分享式
 - 数字粗体是可选择账户的（分享式）
@@ -113,7 +119,7 @@
 ***
 - [在此处获取 Clash 如果你有需要。](https://clashios.com/clash-download/) 
 - [在此处（站内）获取 Clash WARP+ 订阅链接如果你有需要。](https://linux.do/t/topic/8991/)
-- [也可在站内获取免费的专为 ChatGPT OpenAI 官方站点打造的代理。](https://linux.do/t/topic/16430?u=playmcbkuwu)
+- [也可在 Linux.do 获取免费的专为 ChatGPT OpenAI 官方站点打造的代理。](https://linux.do/t/topic/16430?u=playmcbkuwu)
 ***
 ### 持续更新中……
 - ~~你可能想不到，这个东西还有前身，在 Github 叫 ChinaGPT，被我删库了~~
