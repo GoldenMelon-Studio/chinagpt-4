@@ -4,7 +4,7 @@
 - Bookmarking is highly recommended for the most up-to-date information!
 - [>> 中文版本](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md?plain=1)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March 3, 2024 at 19:09 PM
+- Updated March 3, 2024 at 20:59 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
@@ -40,6 +40,7 @@
 - 17\.\. ***BoscoAI*** `Usage limited`: https://ai.bosco.icu/
 - 18\.\. GPT-4 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
 - 19\.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
+- 20\. GPT-4 by AITopk： https://aitopk.com/list
 # Miscellaneous
 ## GPT-3.5
 - Recommendation: 2/5 (40%)
@@ -63,6 +64,7 @@
 - 18\.\. GPT-3.5 by @webpon : https://linux.do/t/topic/16920
 - 19\.\. BoscoAI: https://ai.bosco.icu/
 - 20\.\. GPT-3.5 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
+- 21\. GPT-3.5 by AITopk： https://aitopk.com/list
 ## Google Gemini
 - Recommendation: 3/5 (60%)
 - 1\.\. **Recommended!** Gemini Pro Chat: https://gemini-ai.top/
