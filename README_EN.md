@@ -1,7 +1,7 @@
 # ChinaGPT-4 English Version
 - Also known as EveryoneAI which AI everyone may use.
 - We share **FREE** GPT-4 · Google Gemini Pro · Bing Chat
-- Bookmarking is highly recommended for the most up-to-date information!
+- Watching is highly recommended for the most up-to-date information!
 - [>> 中文版本 Sketu 提供](https://chinagpt.shellten.top/)
 - [>> 中文版本 Github.ink 「中国大陆网络优化版链接」](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - [>> 中文版本 Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
