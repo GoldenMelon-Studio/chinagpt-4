@@ -37,7 +37,7 @@
 - 17\.\. ***BoscoAI*** `限额`: https://ai.bosco.icu/
 - 18\.\. GPT-4 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
 - 19\.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
-- 20\.\. GPT-4 by AITopk： https://aitopk.com/list
+- 20\. GPT-4 by AITopk： https://aitopk.com/list
 ***
 # 其他
 ## GPT-3.5
