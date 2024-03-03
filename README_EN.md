@@ -2,9 +2,11 @@
 - Also known as EveryoneAI which AI everyone may use.
 - We share **FREE** GPT-4 · Google Gemini Pro · Bing Chat
 - Bookmarking is highly recommended for the most up-to-date information!
-- [>> 中文版本](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md?plain=1)
+- [>> 中文版本 by Sketu](https://chinagpt.shellten.top/)
+- [>> 中文版本 at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
+- [>> 中文版本 at Github.com](https://github.com/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March 3, 2024 at 21:04 PM
+- Updated March 3, 2024 at 23:14 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
@@ -13,7 +15,6 @@
 - Because of study, we may cannot update this fast or stop update this project.
 - You can use Markdown texts of this project to fork ChinaGPT-4 and publish to Linux.do as a topic or submit Pull Requests to this project.
 - Remember to fork with links of our project if you created a new topic.
-- Double-ended publishing at https://chinagpt.shellten.top/ .
 # AI Groups / Not tested
 - The groups made by other users. No special fonts.
 - 1\. LAOGOU666: https://www.laogou717.com/
