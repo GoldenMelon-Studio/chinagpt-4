@@ -5,7 +5,7 @@
 - [>> English Version by Sketu](https://en.chinagpt.shellten.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 4 日 下午 18:11 更新
+- 2024 年 3 月 4 日 下午 18:28 更新
 ***
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -39,6 +39,7 @@
 - 18\.\. GPT-4 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
 - 19\.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
 - 20\. GPT-4 by AITopk： https://aitopk.com/list
+- 21\.\. GPT-4 by @Andy_Kong : https://linux.do/t/topic/23432?u=playmcbkuwu
 ***
 # 其他
 ## GPT-3.5
@@ -107,6 +108,7 @@
 - API by @DonaldYinTrump : https://linux.do/t/topic/22040?u=playmcbkuwu
 - API by @Lvguanjun : https://linux.do/t/topic/17943?u=playmcbkuwu
 - API by BoscoAI: https://api.bosco.icu/
+- Copilot by @Donald YinTrump : https://linux.do/t/topic/23097?u=playmcbkuwu
 ***
 - 正常字体为普通分享式
 - 数字粗体是可选择账户的（分享式）
