@@ -6,7 +6,7 @@
 - [>> 中文版本 Github.ink 「中国大陆网络优化版链接」](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - [>> 中文版本 Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March 3, 2024 at 23:17 PM
+- Updated March 4, 2024 at 18:29 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
@@ -42,6 +42,7 @@
 - 18\.\. GPT-4 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
 - 19\.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
 - 20\. GPT-4 by AITopk： https://aitopk.com/list
+- 21\.\. GPT-4 by @Andy_Kong : https://linux.do/t/topic/23432?u=playmcbkuwu
 # Miscellaneous
 ## GPT-3.5
 - Recommendation: 2/5 (40%)
@@ -100,6 +101,7 @@
 - API by @DonaldYinTrump : https://linux.do/t/topic/22040?u=playmcbkuwu
 - API by @Lvguanjun : https://linux.do/t/topic/17943?u=playmcbkuwu
 - API by BoscoAI: https://api.bosco.icu/
+- Copilot by @Donald YinTrump : https://linux.do/t/topic/23097?u=playmcbkuwu
 ***
 - The normal font is normal sharing
 - Numbers in bold are accountable (shared)
