@@ -4,8 +4,8 @@
 - 强烈建议 Watching 以获取最新信息！
 - [>> English Version by Sketu](https://en.chinagpt.shellten.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- [>> English Version at Github.com](https://github.com/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 3 日 下午 23:16 更新
+- [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
+- 2024 年 3 月 4 日 下午 18:11 更新
 ***
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -16,7 +16,7 @@
 - 由其他佬友制作的大合集。此处没有特殊字体用于区分。
 - 1\. LAOGOU666 合集: https://www.laogou717.com/
 - 2\. LXJGZX 合集: https://lxjgzsd.zeabur.app/
-  3\. ShawnAI 合集: https://linux.do/t/topic/22492?u=playmcbkuwu
+- 3\. ShawnAI 合集: https://linux.do/t/topic/22492?u=playmcbkuwu
 # GPT-4
 - 推荐程度：9/10（90%）
 - ***1\.*** **推荐！** RawChat:  https://sharedchat.cn/shared.html
