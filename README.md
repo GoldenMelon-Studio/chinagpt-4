@@ -5,7 +5,7 @@
 - [>> English Version by Sketu](https://en.chinagpt.shellten.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 4 日 下午 18:28 更新
+- 2024 年 3 月 5 日 下午 17:52 更新
 ***
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -95,20 +95,13 @@
 - **推荐！** NeuroAPI `需要 Discord 注册`:https://github.ink/neurogen-dev/NeuroAPI
 - **推荐！** @ElonMusk 分享的免费 API 合集:https://linux.do/t/topic/6049
 - **较为推荐** Coze Discord Proxy:https://linux.do/t/topic/3873?u=playmcbkuwu
-- UU 免费接口 `务必仔细阅读条目`:https://linux.do/t/topic/11115?u=playmcbkuwu
-- API by @jinshenganyuci :https://linux.do/t/topic/14354
+- **较为推荐** UU 免费接口 `务必仔细阅读条目`:https://linux.do/t/topic/11115?u=playmcbkuwu
+- **较为推荐** API by @jinshenganyuci :https://linux.do/t/topic/14354
 - API by @2311676378 :https://linux.do/t/topic/13925
-- Copilot API:https://linux.do/t/topic/15984
-- **推荐！** NeuroAPI `需要 Discord 注册`: https://github.ink/neurogen-dev/NeuroAPI
-- **推荐！** @ElonMusk 分享的免费 API 合集: https://linux.do/t/topic/6049
-- **较为推荐** Coze Discord Proxy: https://linux.do/t/topic/3873?u=playmcbkuwu
-- UU 免费接口 `务必仔细阅读条目`: https://linux.do/t/topic/11115?u=playmcbkuwu
-- API by @jinshenganyuci : https://linux.do/t/topic/14354
-- API by @2311676378 : https://linux.do/t/topic/13925
-- API by @DonaldYinTrump : https://linux.do/t/topic/22040?u=playmcbkuwu
+- **推荐！** API by @DonaldYinTrump : https://linux.do/t/topic/22040?u=playmcbkuwu
 - API by @Lvguanjun : https://linux.do/t/topic/17943?u=playmcbkuwu
 - API by BoscoAI: https://api.bosco.icu/
-- Copilot by @Donald YinTrump : https://linux.do/t/topic/23097?u=playmcbkuwu
+- **推荐！** Copilot by @DonaldYinTrump : https://linux.do/t/topic/23097?u=playmcbkuwu
 ***
 - 正常字体为普通分享式
 - 数字粗体是可选择账户的（分享式）
