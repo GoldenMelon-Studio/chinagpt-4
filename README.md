@@ -5,7 +5,7 @@
 - [>> English Version by Sketu](https://en.chinagpt.shellten.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 5 日 下午 19:27 更新
+- 2024 年 3 月 5 日 下午 19:36 更新
 ***
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -40,6 +40,7 @@
 - 19\.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
 - 20\. GPT-4 by AITopk： https://aitopk.com/list
 - 21\.\. GPT-4 by @Andy_Kong : https://linux.do/t/topic/23432?u=playmcbkuwu
+- 22\.\. GPT-4 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
 ***
 # 其他
 ## GPT-3.5
@@ -65,12 +66,16 @@
 - 19\.\. BoscoAI: https://ai.bosco.icu/
 - 20\.\. GPT-3.5 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
 - 21\. GPT-3.5 by AITopk： https://aitopk.com/list
+- 22\.\. GPT-3.5 by @webpon : https://linux.do/t/topic/25009?u=playmcbkuwu
+- 23\.\. GPT-3.5 by
+@yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
 ***
 ## Google Gemini
 - 推荐程度：3/5（60%）
 - 1\.\. **推荐！** Gemini Pro Chat ~~`本站 Gemini Pro `**一直使用*简体*中文提问**`会导致其认为自己是百度开发的`~~: https://gemini-ai.top/
 - *2\.\.* **推荐！** NextChat ~~`本站 Gemini Pro 会说自己是由 Google 训练的 ChatGPT`~~: http://free01.xyz/
 - 3\.\. Gemini by 1e1: https://1e1.fun/
+- 4\.\. Gemini by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
 ***
 ## Bing / Sydney
 - 推荐程度：7/10（70%）
