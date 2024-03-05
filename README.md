@@ -5,7 +5,7 @@
 - [>> English Version by Sketu](https://en.chinagpt.shellten.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 5 日 下午 17:52 更新
+- 2024 年 3 月 5 日 下午 19:27 更新
 ***
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -102,27 +102,6 @@
 - API by @Lvguanjun : https://linux.do/t/topic/17943?u=playmcbkuwu
 - API by BoscoAI: https://api.bosco.icu/
 - **推荐！** Copilot by @DonaldYinTrump : https://linux.do/t/topic/23097?u=playmcbkuwu
-***
-- 正常字体为普通分享式
-- 数字粗体是可选择账户的（分享式）
-- 数字斜体（或许很难看出来）是需要密码但是会提供的
-- 斜体是需要自己登录的（OpenAI 账户 | 你没有 Plus 还是只能用 3.5）
-- 粗体是可登录（OpenAI 账户 / OpenAI API Key）可使用分享的
-- 斜 + 粗 = 需要第三方账户的
-- 以一个点开头（效果如 .1.）+ 数字的不支持保存历史记录
-- 斜 + 粗的数字代表本条已经测试过拥有完整的功能（如 DALL·E、网页浏览以及代码解释器）
-- 数字后无点代表本条支持的功能仅有文本输出或是功能不全（非 API 的情况下）
-- 数字后有二点而非一点代表本条 GPT-4 是 API 形式的
-- 数字后有三点代表本条是 API 形式的，但支持完整的 API 功能（如画图或 Vision 等功能；**仅限完整的 API 功能而非 Plus 等功能**）
-- 数字后有四点代表本条同时使用 API 和 Plus，但是只能使用聊天
-***
-- [在此处获取 Clash 如果你有需要。](https://clashios.com/clash-download/) 
-- [在此处（站内）获取 Clash WARP+ 订阅链接如果你有需要。](https://linux.do/t/topic/8991/)
-- [也可在 Linux.do 获取免费的专为 ChatGPT OpenAI 官方站点打造的代理。](https://linux.do/t/topic/16430?u=playmcbkuwu)
-***
-### 持续更新中……
-- ~~你可能想不到，这个东西还有前身，在 Github 叫 ChinaGPT，被我删库了~~
-- ~~原来那个是 ChinaGPT-3.5，因为只分享 GPT-3.5 所以才凉了吧（雾）~~
 ***
 - 正常字体为普通分享式
 - 数字粗体是可选择账户的（分享式）
