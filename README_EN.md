@@ -6,7 +6,7 @@
 - [>> 中文版本 Github.ink 「中国大陆网络优化版链接」](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - [>> 中文版本 Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March 5, 2024 at 17:53 PM
+- Updated March 5, 2024 at 19:37 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
@@ -43,6 +43,7 @@
 - 19\.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
 - 20\. GPT-4 by AITopk： https://aitopk.com/list
 - 21\.\. GPT-4 by @Andy_Kong : https://linux.do/t/topic/23432?u=playmcbkuwu
+- 22\.\. GPT-4 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
 # Miscellaneous
 ## GPT-3.5
 - Recommendation: 2/5 (40%)
@@ -67,11 +68,14 @@
 - 19\.\. BoscoAI: https://ai.bosco.icu/
 - 20\.\. GPT-3.5 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
 - 21\. GPT-3.5 by AITopk： https://aitopk.com/list
+- 22\.\. GPT-3.5 by @webpon : https://linux.do/t/topic/25009?u=playmcbkuwu
+- 23\.\. GPT-3.5 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
 ## Google Gemini
 - Recommendation: 3/5 (60%)
 - 1\.\. **Recommended!** Gemini Pro Chat: https://gemini-ai.top/
 - *2\.\.* **Recommended!** NextChat `Gemini Pro on this site will say that it is ChatGPT trained by Google`: http://free01.xyz/
 - 3\.\. Gemini by 1e1: https://1e1.fun/
+- 4\.\. Gemini by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
 ## Bing / Sydney
 - Recommendation: 7/10 (70%)
 1\. **Recommended** Frozen Penguin 'The former is the full content with tutorials, and the latter is the Bing chat page': https://dongsiqie.me/bing / https://bingai.zklcdc.xyz/web/index.html
