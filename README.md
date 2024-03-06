@@ -5,7 +5,7 @@
 - [>> English Version by Sketu](https://en.chinagpt.shellten.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 5 日 下午 19:36 更新
+- 2024 年 3 月 6 日 下午 21:46 更新
 ***
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -41,6 +41,8 @@
 - 20\. GPT-4 by AITopk： https://aitopk.com/list
 - 21\.\. GPT-4 by @Andy_Kong : https://linux.do/t/topic/23432?u=playmcbkuwu
 - 22\.\. GPT-4 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
+- 23. *GPT-4 by OpenAI.com.do*: https://chat.openai.com.do/
+- 24. *GPT-4 by SXY.gay*: https://sxy.gay/
 ***
 # 其他
 ## GPT-3.5
@@ -67,8 +69,9 @@
 - 20\.\. GPT-3.5 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
 - 21\. GPT-3.5 by AITopk： https://aitopk.com/list
 - 22\.\. GPT-3.5 by @webpon : https://linux.do/t/topic/25009?u=playmcbkuwu
-- 23\.\. GPT-3.5 by
-@yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
+- 23\.\. GPT-3.5 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
+- 24. **GPT-3.5 by OpenAI.com.do**: https://chat.openai.com.do/
+- 25. **GPT-3.5 by SXY.gay**: https://sxy.gay/
 ***
 ## Google Gemini
 - 推荐程度：3/5（60%）
