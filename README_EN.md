@@ -6,7 +6,7 @@
 - [>> 中文版本 Github.ink 「中国大陆网络优化版链接」](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - [>> 中文版本 Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March 6, 2024 at 21:46 PM
+- Updated March 8, 2024 at 16:02 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
@@ -22,30 +22,31 @@
 - 3\. ShawnAI: https://linux.do/t/topic/22492?u=playmcbkuwu
 # GPT-4
 - Recommendation: 9/10 (90%)
-- ***1\.*** **Half recommended** RawChat: https://sharedchat.cn/shared.html
+- ***1\.*** **Recommended!** RawChat: https://sharedchat.cn/shared.html
 - 2\. *RawChat* `You need to login your own OpenAI Plus Account. If you do not have a Plus Subscription, you may only access to GPT-3.5`: https://chat.rawchat.cc/
 - *3\.\.* **Half recommended** **Free01**: http://free01.xyz
 - 4\.\. **Half recommended** **NextChat by CaiFree**: https://chat.caifree.com/#/
 - 5\.\. **Half recommended** **NextChat by NetFly**: https://free.netfly.top/
 - 6\.\. **Half recommended** **NextChat by UU**: https://uu.ci/chat/1
 - ***.7\.*** **Very recommended!** **PlusAI** `Only GPT-4. If you want to access to GPT-3.5, login your own OpenAI accoumt. Message sending limit: 25 / 2min `: https://linux.do/t/topic/8145
-- 8\.\. ***Gunara*** `You need to register an account by yourself | `**Not Tested**: https://gunara.cn/
-- 9\.\. ChatK: http://chat.gking.me/
-- 10\.\. **Half recommended** **LobeHub**: https://lobe.caifree.com/
-- 11\.\. **Recommended!** **LobeHub by @SillyGod** `Only GPT-4 Preview series models are supported | LobeHub plugins are supported`: https://free.b3n.fun/
-- 12\.\. **BetterChatGPT by DongStop** `Usage limited`: https://hai1.dongstop.link/
-- **13\.** GPT-4 by @jinshenganyuci : https://linux.do/t/topic/12504
-- 14\... GPT-4 by @2311676378 : https://linux.do/t/topic/13925
-- **15\.\.** OhChat by @sketu : https://ochat.shellten.top/
-- 16\.\. GPT-4 by @DoneWell : https://linux.do/t/topic/18438?u=playmcbkuwu
-- 17\.\. ***BoscoAI*** `Usage limited`: https://ai.bosco.icu/
-- 18\.\. GPT-4 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
-- 19\.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
-- 20\. GPT-4 by AITopk： https://aitopk.com/list
-- 21\.\. GPT-4 by @Andy_Kong : https://linux.do/t/topic/23432?u=playmcbkuwu
-- 22\.\. GPT-4 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
-- 23. *GPT-4 by OpenAI.com.do*: https://chat.openai.com.do/
-- 24. *GPT-4 by SXY.gay*: https://sxy.gay/
+- **8\.** **Recommended!** FreeGPTs: https://share.freegpts.org/list
+- 9\.\. ***Gunara*** `You need to register an account by yourself | `**Not Tested**: https://gunara.cn/
+- 10\.\. ChatK: http://chat.gking.me/
+- 11\.\. **Half recommended** **LobeHub**: https://lobe.caifree.com/
+- 12\.\. **Recommended!** **LobeHub by @SillyGod** `Only GPT-4 Preview series models are supported | LobeHub plugins are supported`: https://free.b3n.fun/
+- 13\.\. **BetterChatGPT by DongStop** `Usage limited`: https://hai1.dongstop.link/
+- **14\.** GPT-4 by @jinshenganyuci : https://linux.do/t/topic/12504
+- 15\... GPT-4 by @2311676378 : https://linux.do/t/topic/13925
+- **16\.\.** OhChat by @sketu : https://ochat.shellten.top/
+- 17\.\. GPT-4 by @DoneWell : https://linux.do/t/topic/18438?u=playmcbkuwu
+- 18\.\. ***BoscoAI*** `Usage limited`: https://ai.bosco.icu/
+- 19\.\. GPT-4 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
+- 20\.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
+- 21\. GPT-4 by AITopk： https://aitopk.com/list
+- 22\.\. GPT-4 by @Andy_Kong : https://linux.do/t/topic/23432?u=playmcbkuwu
+- 23\.\. GPT-4 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
+- 24\. *GPT-4 by OpenAI.com.do*: https://chat.openai.com.do/
+- 25\. *GPT-4 by SXY.gay*: https://sxy.gay/
 # Miscellaneous
 ## GPT-3.5
 - Recommendation: 2/5 (40%)
@@ -72,8 +73,9 @@
 - 21\. GPT-3.5 by AITopk： https://aitopk.com/list
 - 22\.\. GPT-3.5 by @webpon : https://linux.do/t/topic/25009?u=playmcbkuwu
 - 23\.\. GPT-3.5 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
-- 24. **GPT-3.5 by OpenAI.com.do**: https://chat.openai.com.do/
-- 25. **GPT-3.5 by SXY.gay**: https://sxy.gay/
+- 24\. **GPT-3.5 by OpenAI.com.do**: https://chat.openai.com.do/
+- 25\. **GPT-3.5 by SXY.gay**: https://sxy.gay/
+- **26\.** GPT-3.5 by FullGoal: https://car.fullgoal.net/list
 ## Google Gemini
 - Recommendation: 3/5 (60%)
 - 1\.\. **Recommended!** Gemini Pro Chat: https://gemini-ai.top/
