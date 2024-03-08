@@ -5,7 +5,7 @@
 - [>> English Version by Sketu](https://en.chinagpt.shellten.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 6 日 下午 21:46 更新
+- 2024 年 3 月 8 日 下午 16:03 更新
 ***
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -27,22 +27,23 @@
 - 6\.\. **较为推荐** **NextChat by UU**: https://uu.ci/chat/1
 - ***.7\.*** **非常推荐！** **PlusAI** ~~`我说这家伙不支持 GPT-3.5 只支持 GPT-4 你信吗`~~` | 信息发送限制: 25 / 2min`: https://linux.do/t/topic/8145
 - 8\.\. ***古娜拉*** `需自行注册账户 | `**未测试**: https://gunara.cn/
-- 9\.\. ChatK: http://chat.gking.me/
-- 10\.\. **较为推荐** **LobeHub by CaiFree**: https://lobe.caifree.com/
-- 11\.\. **推荐！** **LobeHub by @SillyGod** `GPT-4 仅支持 Preview 系列模型 | 支持 LobeHub 插件`: https://free.b3n.fun/
-- 12\.\. **BetterChatGPT by DongStop** `限额`: https://hai1.dongstop.link/
-- **13\.** GPT-4 by @jinshenganyuci : https://linux.do/t/topic/12504
-- 14\... GPT-4 by @2311676378 : https://linux.do/t/topic/13925
-- **15\.** OhChat by @sketu : https://ochat.shellten.top/
-- 16\.\. GPT-4 by @DoneWell : https://linux.do/t/topic/18438?u=playmcbkuwu
-- 17\.\. ***BoscoAI*** `限额`: https://ai.bosco.icu/
-- 18\.\. GPT-4 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
-- 19\.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
-- 20\. GPT-4 by AITopk： https://aitopk.com/list
-- 21\.\. GPT-4 by @Andy_Kong : https://linux.do/t/topic/23432?u=playmcbkuwu
-- 22\.\. GPT-4 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
-- 23. *GPT-4 by OpenAI.com.do*: https://chat.openai.com.do/
-- 24. *GPT-4 by SXY.gay*: https://sxy.gay/
+- 9\. **推荐！** FreeGPTs: https://share.freegpts.org/list
+- 10\.\. ChatK: http://chat.gking.me/
+- 11\.\. **较为推荐** **LobeHub by CaiFree**: https://lobe.caifree.com/
+- 12\.\. **推荐！** **LobeHub by @SillyGod** `GPT-4 仅支持 Preview 系列模型 | 支持 LobeHub 插件`: https://free.b3n.fun/
+- 13\.\. **BetterChatGPT by DongStop** `限额`: https://hai1.dongstop.link/
+- **14\.** GPT-4 by @jinshenganyuci : https://linux.do/t/topic/12504
+- 15\... GPT-4 by @2311676378 : https://linux.do/t/topic/13925
+- **16\.** OhChat by @sketu : https://ochat.shellten.top/
+- 17\.\. GPT-4 by @DoneWell : https://linux.do/t/topic/18438?u=playmcbkuwu
+- 18\.\. ***BoscoAI*** `限额`: https://ai.bosco.icu/
+- 19\.\. GPT-4 by Niansuhai: https://niansuhai-chat.hf.space / https://niansuhai-chatv2.hf.space / https://niansuhai-mixtral.hf.space
+- 20\.\. GPT-4 by @MatsuzakaSato : https://linux.do/t/topic/21709?u=playmcbkuwu
+- 21\. GPT-4 by AITopk： https://aitopk.com/list
+- 22\.\. GPT-4 by @Andy_Kong : https://linux.do/t/topic/23432?u=playmcbkuwu
+- 23\.\. GPT-4 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
+- 24\. *GPT-4 by OpenAI.com.do*: https://chat.openai.com.do/
+- 25\. *GPT-4 by SXY.gay*: https://sxy.gay/
 ***
 # 其他
 ## GPT-3.5
@@ -70,8 +71,9 @@
 - 21\. GPT-3.5 by AITopk： https://aitopk.com/list
 - 22\.\. GPT-3.5 by @webpon : https://linux.do/t/topic/25009?u=playmcbkuwu
 - 23\.\. GPT-3.5 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
-- 24. **GPT-3.5 by OpenAI.com.do**: https://chat.openai.com.do/
-- 25. **GPT-3.5 by SXY.gay**: https://sxy.gay/
+- 24\. **GPT-3.5 by OpenAI.com.do**: https://chat.openai.com.do/
+- 25\. **GPT-3.5 by SXY.gay**: https://sxy.gay/
+- **26\.** GPT-3.5 by FullGoal: https://car.fullgoal.net/list
 ***
 ## Google Gemini
 - 推荐程度：3/5（60%）
