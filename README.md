@@ -17,6 +17,8 @@
 - 1\. LAOGOU666 合集: https://www.laogou717.com/
 - 2\. LXJGZX 合集: https://lxjgzsd.zeabur.app/
 - 3\. ShawnAI 合集: https://linux.do/t/topic/22492?u=playmcbkuwu
+# 本站AI
+- ***.1\.*** **非常推荐！** **ChinaChat**: `站长制作，完全免费，自由使用！` https://chat.p1ay.top
 # GPT-4
 - 推荐程度：9/10（90%）
 - ***1\.*** **推荐！** RawChat:  https://sharedchat.cn/shared.html
