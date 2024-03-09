@@ -2,11 +2,15 @@
 - 也叫 EveryoneAI — 人人可用的 AI。
 - 致力于分享 GPT-4 · Google Gemini Pro · Bing Chat
 - 强烈建议 Watching 以获取最新信息！
-- [>> English Version by Sketu](https://en.chinagpt.shellten.top/)
+- [>> English Version by Sketu](https://en.chinagpt.p1ay.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 9 日 下午 19:15 更新
+- 2024 年 3 月 9 日 下午 21:31 更新
 ***
+# ChinaGPT-Chat
+- 没错，我们有自己的服务了。
+- 感谢 Sketu 提供后端 API 和服务器。
+- 站点地址: https://chat.p1ay.top/
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
 - 目前所有佬友都可以根据本贴的 Markdown 复制 ChinaGPT-4 并作为一个贴子发布到 Linux.do 或给本项目提交 Pull Requests.
