@@ -6,7 +6,7 @@
 - [>> 中文版本 Github.ink 「中国大陆网络优化版链接」](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - [>> 中文版本 Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March 8, 2024 at 16:12 PM
+- Updated March9, 2024 at 19:17 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
@@ -103,7 +103,7 @@
 - 1\. WorkersAI by @sketu: https://share.shellten.top/aidraw
 ***
 ## GPT-4 Free API
-- **Recommended!** NeuroAPI `Require a Discord account to register`: https://github.ink/neurogen-dev/NeuroAPI
+- NeuroAPI `Require a Discord account to register and GPT-3.5 only`: https://github.ink/neurogen-dev/NeuroAPI
 - **Recommended!** Free APIs shared by @ElonMusk: https://linux.do/t/topic/6049
 - **Half recommended** Coze Discord Proxy: https://linux.do/t/topic/3873?u=playmcbkuwu
 - **Half recommended** UU Free API `Be sure to read the entries carefully`: https://linux.do/t/topic/11115?u=playmcbkuwu
