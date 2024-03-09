@@ -5,7 +5,7 @@
 - [>> English Version by Sketu](https://en.chinagpt.shellten.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 8 日 下午 16:13 更新
+- 2024 年 3 月 9 日 下午 19:15 更新
 ***
 # 请复制我们！
 - 因为开学的缘故，本项目可能暂时更新速度变得缓慢或者无法更新。
@@ -103,7 +103,7 @@
 - 1\. WorkersAI by @sketu: https://share.shellten.top/aidraw
 ## GPT-4 免费 API
 - 其他区域的特殊字体暂时不适用于此。
-- **推荐！** NeuroAPI `需要 Discord 注册`:https://github.ink/neurogen-dev/NeuroAPI
+- NeuroAPI `需要 Discord 注册且仅有 GPT-3.5`:https://github.ink/neurogen-dev/NeuroAPI
 - **推荐！** @ElonMusk 分享的免费 API 合集:https://linux.do/t/topic/6049
 - **较为推荐** Coze Discord Proxy:https://linux.do/t/topic/3873?u=playmcbkuwu
 - **较为推荐** UU 免费接口 `务必仔细阅读条目`:https://linux.do/t/topic/11115?u=playmcbkuwu
