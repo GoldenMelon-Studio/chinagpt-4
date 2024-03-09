@@ -2,14 +2,20 @@
 - Also known as EveryoneAI which AI everyone may use.
 - We share **FREE** GPT-4 · Google Gemini Pro · Bing Chat
 - Watching is highly recommended for the most up-to-date information!
-- [>> 中文版本 Sketu 提供](https://chinagpt.shellten.top/)
+- [>> 中文版本 Sketu 提供](https://chinagpt.p1ay.top/)
 - [>> 中文版本 Github.ink 「中国大陆网络优化版链接」](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - [>> 中文版本 Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March9, 2024 at 19:17 PM
+- Updated March9, 2024 at 21:32 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
+***
+# ChinaGPT-Chat
+- The offically service by ChinaGPT-4.
+- Support GPT-4 and GPT-3.5.
+- Backend API and server provided by Sketu.
+- Website: https://chat.p1ay.top/
 ***
 # Please fork us!
 - Because of study, we may cannot update this fast or stop update this project.
