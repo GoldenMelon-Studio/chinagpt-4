@@ -5,7 +5,7 @@
 - [>> English Version by Sketu](https://en.chinagpt.p1ay.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 9 日 下午 21:33 更新
+- 2024 年 3 月 9 日 下午 21:53 更新
 ***
 # ChinaGPT-Chat
 - 没错，我们有自己的服务了。
@@ -119,6 +119,7 @@
 - API by @Lvguanjun : https://linux.do/t/topic/17943?u=playmcbkuwu
 - API by BoscoAI: https://api.bosco.icu/
 - **推荐！** Copilot by @DonaldYinTrump : https://linux.do/t/topic/23097?u=playmcbkuwu
+- **较为推荐** API by @shuwu-ui : https://linux.do/t/topic/29462?u=playmcbkuwu
 ***
 - 正常字体为普通分享式
 - 数字粗体是可选择账户的（分享式）
