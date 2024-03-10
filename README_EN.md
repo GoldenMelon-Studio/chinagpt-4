@@ -6,7 +6,7 @@
 - [>> 中文版本 Github.ink 「中国大陆网络优化版链接」](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - [>> 中文版本 Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March9, 2024 at 21:54 PM
+- Updated March 10, 2024 at 19:45 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
@@ -54,6 +54,8 @@
 - 24\.\. GPT-4 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
 - 25\. *GPT-4 by OpenAI.com.do*: https://chat.openai.com.do/
 - 26\. *GPT-4 by SXY.gay*: https://sxy.gay/
+- 27.\. **GPT-4 by @CNk_Yuw** : https://linux.do/t/topic/22154?u=playmcbkuwu
+- 28.\. **GPT-4 by @tomridder716** : https://linux.do/t/topic/29583?u=playmcbkuwu
 # Miscellaneous
 ## GPT-3.5
 - Recommendation: 2/5 (40%)
@@ -83,6 +85,8 @@
 - 24\. **GPT-3.5 by OpenAI.com.do**: https://chat.openai.com.do/
 - 25\. **GPT-3.5 by SXY.gay**: https://sxy.gay/
 - **26\.** GPT-3.5 by FullGoal: https://car.fullgoal.net/list
+- 27.\. **GPT-3.5 by @CNk_Yuw** : https://linux.do/t/topic/22154?u=playmcbkuwu
+- **28\.** GPT-3.5 by ChatGPT Plus: https://chatgptplus.cn/list
 ## Google Gemini
 - Recommendation: 3/5 (60%)
 - 1\.\. **Recommended!** Gemini Pro Chat: https://gemini-ai.top/
@@ -120,6 +124,8 @@
 - API by BoscoAI: https://api.bosco.icu/
 - **Recommended!** Copilot by @DonaldYinTrump : https://linux.do/t/topic/23097?u=playmcbkuwu
 - **Hakf recommended** API by @shuwu-ui : https://linux.do/t/topic/29462?u=playmcbkuwu
+- **Recommended!** API by @sketu : https://linux.do/t/topic/29664?u=playmcbkuwu
+- **Half recommended** API by @pryyxj : https://linux.do/t/topic/29735?u=playmcbkuwu
 ***
 - The normal font is normal sharing
 - Numbers in bold are accountable (shared)
