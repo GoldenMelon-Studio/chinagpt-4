@@ -5,7 +5,7 @@
 - [>> English Version by Sketu](https://en.chinagpt.p1ay.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 9 日 下午 21:53 更新
+- 2024 年 3 月 10 日 下午 19:40 更新
 ***
 # ChinaGPT-Chat
 - 没错，我们有自己的服务了。
@@ -29,7 +29,7 @@
 - 2\. *RawChat* ~~`你没有 Plus 还是只能登 GPT-3.5 的号玩 GPT-3.5`~~: https://chat.rawchat.cc/
 - *3\.\.* **较为推荐** **Free01**:http://free01.xyz
 - 4\.\. **较为推荐** **NextChat by CaiFree**: https://chat.caifree.com/#/
-- 5\.\. **较为推荐** **NextChat by NetFly**: https://free.netfly.top/
+- 5\.\. **NextChat by NetFly**: https://linux.do/t/topic/6160?u=playmcbkuwu
 - 6\.\. **较为推荐** **NextChat by UU**: https://uu.ci/chat/1
 - ***.7\.*** **非常推荐！** **GPT4Free** `内嵌账户不支持 GPT-3.5 | 信息发送限制: 25 / 2min`: https://gpt4fr.ee
 - ***.8.*** **非常推荐！** **PlusAI Free**: https://docs.plusaigpt.com/faq/#%E8%AF%95%E7%94%A8%E8%B4%A6%E5%8F%B7
@@ -51,6 +51,8 @@
 - 24\.\. GPT-4 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
 - 25\. *GPT-4 by OpenAI.com.do*: https://chat.openai.com.do/
 - 26\. *GPT-4 by SXY.gay*: https://sxy.gay/
+- 27.\. **GPT-4 by @CNk_Yuw : https://linux.do/t/topic/22154?u=playmcbkuwu
+- 28.\. **GPT-4 by @tomridder716 : https://linux.do/t/topic/29583?u=playmcbkuwu
 ***
 # 其他
 ## GPT-3.5
@@ -81,6 +83,9 @@
 - 24\. **GPT-3.5 by OpenAI.com.do**: https://chat.openai.com.do/
 - 25\. **GPT-3.5 by SXY.gay**: https://sxy.gay/
 - **26\.** GPT-3.5 by FullGoal: https://car.fullgoal.net/list
+- 27.\. GPT-3.5 by @webpon : https://linux.do/t/topic/29624?u=playmcbkuwu
+- 28. GPT-3.5 by ChatGPT Plus: https://chatgptplus.cn/list
+- 29.\. **GPT-3.5 by @CNk_Yuw : https://linux.do/t/topic/22154?u=playmcbkuwu
 ***
 ## Google Gemini
 - 推荐程度：3/5（60%）
@@ -120,6 +125,8 @@
 - API by BoscoAI: https://api.bosco.icu/
 - **推荐！** Copilot by @DonaldYinTrump : https://linux.do/t/topic/23097?u=playmcbkuwu
 - **较为推荐** API by @shuwu-ui : https://linux.do/t/topic/29462?u=playmcbkuwu
+- **推荐！** API by @sketu : https://linux.do/t/topic/29664?u=playmcbkuwu
+- **较为推荐** API by @pryyxj : https://linux.do/t/topic/29735?u=playmcbkuwu
 ***
 - 正常字体为普通分享式
 - 数字粗体是可选择账户的（分享式）
