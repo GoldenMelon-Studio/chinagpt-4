@@ -5,7 +5,7 @@
 - [>> English Version by Sketu](https://en.chinagpt.p1ay.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 10 日 下午 19:42 更新
+- 2024 年 3 月 10 日 下午 19:46 更新
 ***
 # ChinaGPT-Chat
 - 没错，我们有自己的服务了。
@@ -51,8 +51,8 @@
 - 24\.\. GPT-4 by @yesmore : https://linux.do/t/topic/23484?u=playmcbkuwu
 - 25\. *GPT-4 by OpenAI.com.do*: https://chat.openai.com.do/
 - 26\. *GPT-4 by SXY.gay*: https://sxy.gay/
-- 27.\. **GPT-4 by @CNk_Yuw : https://linux.do/t/topic/22154?u=playmcbkuwu
-- 28.\. **GPT-4 by @tomridder716 : https://linux.do/t/topic/29583?u=playmcbkuwu
+- 27.\. **GPT-4 by @CNk_Yuw** : https://linux.do/t/topic/22154?u=playmcbkuwu
+- 28.\. **GPT-4 by @tomridder716** : https://linux.do/t/topic/29583?u=playmcbkuwu
 ***
 # 其他
 ## GPT-3.5
@@ -85,7 +85,7 @@
 - **26\.** GPT-3.5 by FullGoal: https://car.fullgoal.net/list
 - 27.\. GPT-3.5 by @webpon : https://linux.do/t/topic/29624?u=playmcbkuwu
 - **28\.** GPT-3.5 by ChatGPT Plus: https://chatgptplus.cn/list
-- 29.\. **GPT-3.5 by @CNk_Yuw : https://linux.do/t/topic/22154?u=playmcbkuwu
+- 29.\. **GPT-3.5 by @CNk_Yuw** : https://linux.do/t/topic/22154?u=playmcbkuwu
 ***
 ## Google Gemini
 - 推荐程度：3/5（60%）
