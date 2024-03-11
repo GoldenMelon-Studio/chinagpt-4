@@ -5,7 +5,7 @@
 - [>> English Version by Sketu](https://en.chinagpt.p1ay.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 10 日 下午 19:46 更新
+- 2024 年 3 月 11 日 下午 18:07 更新
 ***
 # ChinaGPT-Chat
 - 没错，我们有自己的服务了。
@@ -25,10 +25,10 @@
 - 3\. ShawnAI 合集: https://linux.do/t/topic/22492?u=playmcbkuwu
 # GPT-4
 - 推荐程度：9/10（90%）
-- ***1\.*** **推荐！** RawChat:  https://sharedchat.cn/shared.html
+- **1\.** **推荐！** RawChat:  https://sharedchat.cn/shared.html
 - 2\. *RawChat* ~~`你没有 Plus 还是只能登 GPT-3.5 的号玩 GPT-3.5`~~: https://chat.rawchat.cc/
 - *3\.\.* **较为推荐** **Free01**:http://free01.xyz
-- 4\.\. **较为推荐** **NextChat by CaiFree**: https://chat.caifree.com/#/
+- **4\.** **较为推荐** CaiFree: https://ai.caifree.com/#/
 - 5\.\. **NextChat by NetFly**: https://linux.do/t/topic/6160?u=playmcbkuwu
 - 6\.\. **较为推荐** **NextChat by UU**: https://uu.ci/chat/1
 - ***.7\.*** **非常推荐！** **GPT4Free** `内嵌账户不支持 GPT-3.5 | 信息发送限制: 25 / 2min`: https://gpt4fr.ee
@@ -135,7 +135,6 @@
 - 粗体是可登录（OpenAI 账户 / OpenAI API Key）可使用分享的
 - 斜 + 粗 = 需要第三方账户的
 - 以一个点开头（效果如 .1.）+ 数字的不支持保存历史记录
-- 斜 + 粗的数字代表本条已经测试过拥有完整的功能（如 DALL·E、网页浏览以及代码解释器）
 - 数字后无点代表本条支持的功能仅有文本输出或是功能不全（非 API 的情况下）
 - 数字后有二点而非一点代表本条 GPT-4 是 API 形式的
 - 数字后有三点代表本条是 API 形式的，但支持完整的 API 功能（如画图或 Vision 等功能；**仅限完整的 API 功能而非 Plus 等功能**）
