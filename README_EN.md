@@ -6,7 +6,7 @@
 - [>> 中文版本 Github.ink 「中国大陆网络优化版链接」](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - [>> 中文版本 Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March 11, 2024 at 18:08 PM
+- Updated March 11, 2024 at 21:23 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
@@ -87,6 +87,8 @@
 - **26\.** GPT-3.5 by FullGoal: https://car.fullgoal.net/list
 - 27.\. **GPT-3.5 by @CNk_Yuw** : https://linux.do/t/topic/22154?u=playmcbkuwu
 - **28\.** GPT-3.5 by ChatGPT Plus: https://chatgptplus.cn/list
+- 29.\. **GPT-3.5 by @CNk_Yuw** : https://linux.do/t/topic/22154?u=playmcbkuwu
+- 30.\. GPT-3.5 by ChantGPT: https://linux.do/t/topic/29008?u=playmcbkuwu
 ## Google Gemini
 - Recommendation: 3/5 (60%)
 - 1\.\. **Recommended!** Gemini Pro Chat: https://gemini-ai.top/
