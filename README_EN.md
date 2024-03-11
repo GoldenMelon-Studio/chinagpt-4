@@ -6,7 +6,7 @@
 - [>> 中文版本 Github.ink 「中国大陆网络优化版链接」](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - [>> 中文版本 Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March 10, 2024 at 19:45 PM
+- Updated March 11, 2024 at 18:08 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
@@ -28,10 +28,10 @@
 - 3\. ShawnAI: https://linux.do/t/topic/22492?u=playmcbkuwu
 # GPT-4
 - Recommendation: 9/10 (90%)
-- ***1\.*** **Recommended!** RawChat: https://sharedchat.cn/shared.html
+- **1\.** **Recommended!** RawChat: https://sharedchat.cn/shared.html
 - 2\. *RawChat* `You need to login your own OpenAI Plus Account. If you do not have a Plus Subscription, you may only access to GPT-3.5`: https://chat.rawchat.cc/
 - *3\.\.* **Half recommended** **Free01**: http://free01.xyz
-- 4\.\. **Half recommended** **NextChat by CaiFree**: https://chat.caifree.com/#/
+- 4\.\. **Half recommended** CaiFree: https://ai.caifree.com/#/
 - 5\.\. **Half recommended** **NextChat by NetFly**: https://free.netfly.top/
 - 6\.\. **Half recommended** **NextChat by UU**: https://uu.ci/chat/1
 - ***.7\.*** **Very recommended!** **GPT4Free** `Only GPT-4. If you want to access to GPT-3.5, login your own OpenAI accoumt. Message sending limit: 25 / 2min `: https://gpt4fr.ee
@@ -134,7 +134,6 @@
 - Bold is available for logging in (OpenAI account / OpenAI API Key) to share
 - Italic + Bold = Requires a third-party account
 - Saving history is not supported for starting with a dot (like .1.) + number
-- Italic + bold numbers indicate that the article has been tested and has full functionality (e.g. DALL· E. Web browsing and code interpreter)
 - No dot after the number means that the function supported in this article is only text output or incomplete (in the case of non-API)
 - A number with two dots instead of a dot indicates that AI is in the form of an API
 - Three dots after the number indicate that this article is in the form of an API, but supports full API functionality (e.g. DALL·E 3 or Vision; **full API functionality only, not features like Plus**)
