@@ -5,7 +5,7 @@
 - [>> English Version by Sketu](https://en.chinagpt.p1ay.top/)
 - [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
 - [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 11 日 下午 21:21 更新
+- 2024 年 3 月 12 日 下午 21:45 更新
 ***
 # ChinaGPT-Chat
 - 没错，我们有自己的服务了。
@@ -53,6 +53,7 @@
 - 26\. *GPT-4 by SXY.gay*: https://sxy.gay/
 - 27.\. **GPT-4 by @CNk_Yuw** : https://linux.do/t/topic/22154?u=playmcbkuwu
 - 28.\. **GPT-4 by @tomridder716** : https://linux.do/t/topic/29583?u=playmcbkuwu
+- 29.\. GPT-4 by @XODI : https://linux.do/t/topic/8575?u=playmcbkuwu
 ***
 # 其他
 ## GPT-3.5
@@ -87,6 +88,7 @@
 - **28\.** GPT-3.5 by ChatGPT Plus: https://chatgptplus.cn/list
 - 29.\. **GPT-3.5 by @CNk_Yuw** : https://linux.do/t/topic/22154?u=playmcbkuwu
 - 30.\. GPT-3.5 by ChantGPT: https://linux.do/t/topic/29008?u=playmcbkuwu
+- 31.\. GPT-3.5 by @XODI : https://linux.do/t/topic/8575?u=playmcbkuwu
 ***
 ## Google Gemini
 - 推荐程度：3/5（60%）
@@ -128,6 +130,7 @@
 - **较为推荐** API by @shuwu-ui : https://linux.do/t/topic/29462?u=playmcbkuwu
 - **推荐！** API by @sketu : https://linux.do/t/topic/29664?u=playmcbkuwu
 - **较为推荐** API by @pryyxj : https://linux.do/t/topic/29735?u=playmcbkuwu
+- API by @Allen_Donald : https://linux.do/t/topic/14340?u=playmcbkuwu
 ***
 - 正常字体为普通分享式
 - 数字粗体是可选择账户的（分享式）
