@@ -6,7 +6,7 @@
 - [>> 中文版本 Github.ink 「中国大陆网络优化版链接」](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - [>> 中文版本 Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README.md)
 - You can share information here to Discord, YouTube, your blog and so on. Especially GPT-4, which deserves to be shared.
-- Updated March 11, 2024 at 21:23 PM
+- Updated March 12, 2024 at 21:46 PM
 - **This article was published in China. Some of them may not be necessary for you, and this article is written for the Internet in mainland China. If you are in mainland China right now, and you want to use a *REAL* AI instead of *FAKE* 'Chat Assistant' you searched with Baidu or Bing China, this article is useful for you.**
 - **> 80% websites in this article used Chinese.**
 - **Wrote with Bing Translator.**
@@ -56,6 +56,7 @@
 - 26\. *GPT-4 by SXY.gay*: https://sxy.gay/
 - 27.\. **GPT-4 by @CNk_Yuw** : https://linux.do/t/topic/22154?u=playmcbkuwu
 - 28.\. **GPT-4 by @tomridder716** : https://linux.do/t/topic/29583?u=playmcbkuwu
+- 29.\. GPT-4 by @XODI : https://linux.do/t/topic/8575?u=playmcbkuwu
 # Miscellaneous
 ## GPT-3.5
 - Recommendation: 2/5 (40%)
@@ -89,6 +90,7 @@
 - **28\.** GPT-3.5 by ChatGPT Plus: https://chatgptplus.cn/list
 - 29.\. **GPT-3.5 by @CNk_Yuw** : https://linux.do/t/topic/22154?u=playmcbkuwu
 - 30.\. GPT-3.5 by ChantGPT: https://linux.do/t/topic/29008?u=playmcbkuwu
+- 31.\. GPT-3.5 by @XODI : https://linux.do/t/topic/8575?u=playmcbkuwu
 ## Google Gemini
 - Recommendation: 3/5 (60%)
 - 1\.\. **Recommended!** Gemini Pro Chat: https://gemini-ai.top/
@@ -128,6 +130,7 @@
 - **Hakf recommended** API by @shuwu-ui : https://linux.do/t/topic/29462?u=playmcbkuwu
 - **Recommended!** API by @sketu : https://linux.do/t/topic/29664?u=playmcbkuwu
 - **Half recommended** API by @pryyxj : https://linux.do/t/topic/29735?u=playmcbkuwu
+- API by @Allen_Donald : https://linux.do/t/topic/14340?u=playmcbkuwu
 ***
 - The normal font is normal sharing
 - Numbers in bold are accountable (shared)
