@@ -3,9 +3,8 @@
 - 致力于分享 GPT-4 · Google Gemini Pro · Bing Chat
 - 强烈建议 Watching 以获取最新信息！
 - [>> English Version by Sketu](https://en.chinagpt.p1ay.top/)
-- [>> English Version at Github.ink for China mainland network](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- [>> English Version at Github.com](https://github.ink/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
-- 2024 年 3 月 12 日 下午 21:45 更新
+- [>> English Version at Github.com](https://github.com/PlayMcBKuwu/chinagpt-4/blob/main/README_EN.md)
+- 2024 年 6 月 15 日 下午 12:43 更新
 ***
 # ChinaGPT-Chat
 - 没错，我们有自己的服务了。
